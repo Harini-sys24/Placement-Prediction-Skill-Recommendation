@@ -1,0 +1,121 @@
+Role,Skill,Required_Level,Priority
+Software Developer,Python,5,High
+Software Developer,Java,4,High
+Software Developer,C++,4,High
+Software Developer,DSA,5,High
+Software Developer,OOP,5,High
+Software Developer,SQL,4,High
+Software Developer,DBMS,4,High
+Software Developer,Git,4,Medium
+Software Developer,GitHub,4,Medium
+Software Developer,Operating Systems,4,Medium
+Software Developer,Computer Networks,3,Medium
+Software Developer,Problem Solving,5,High
+Software Developer,System Design,3,Medium
+Software Developer,REST API,3,Medium
+Software Developer,Testing,3,Medium
+Software Developer,Docker,2,Low
+Software Developer,Linux,3,Medium
+Software Developer,Communication,4,High
+Software Developer,Agile,3,Medium
+Software Developer,Cloud,2,Low
+Data Scientist,Python,5,High
+Data Scientist,SQL,4,High
+Data Scientist,Statistics,5,High
+Data Scientist,Probability,5,High
+Data Scientist,Machine Learning,5,High
+Data Scientist,Pandas,5,High
+Data Scientist,NumPy,4,High
+Data Scientist,Matplotlib,4,Medium
+Data Scientist,Seaborn,3,Medium
+Data Scientist,Data Visualization,4,High
+Data Scientist,Feature Engineering,4,High
+Data Scientist,Data Cleaning,4,High
+Data Scientist,EDA,5,High
+Data Scientist,Scikit-learn,5,High
+Data Scientist,Jupyter,4,Medium
+Data Scientist,Excel,3,Low
+Data Scientist,Git,3,Medium
+Data Scientist,Deep Learning,3,Medium
+Data Scientist,Communication,4,High
+Data Scientist,Problem Solving,4,High
+ML Engineer,Python,5,High
+ML Engineer,Machine Learning,5,High
+ML Engineer,Deep Learning,5,High
+ML Engineer,Statistics,4,High
+ML Engineer,Probability,4,Medium
+ML Engineer,NumPy,4,Medium
+ML Engineer,Pandas,4,Medium
+ML Engineer,Scikit-learn,5,High
+ML Engineer,TensorFlow,4,High
+ML Engineer,PyTorch,4,High
+ML Engineer,SQL,3,Medium
+ML Engineer,Git,4,High
+ML Engineer,Docker,5,High
+ML Engineer,Kubernetes,4,Medium
+ML Engineer,Linux,4,High
+ML Engineer,AWS,4,Medium
+ML Engineer,MLOps,5,High
+ML Engineer,Model Deployment,5,High
+ML Engineer,REST API,3,Medium
+ML Engineer,Problem Solving,4,High
+Web Developer,HTML,5,High
+Web Developer,CSS,5,High
+Web Developer,JavaScript,5,High
+Web Developer,TypeScript,4,Medium
+Web Developer,React,5,High
+Web Developer,Node.js,4,High
+Web Developer,Express.js,4,Medium
+Web Developer,REST API,4,High
+Web Developer,SQL,3,Medium
+Web Developer,MongoDB,3,Medium
+Web Developer,Git,4,High
+Web Developer,GitHub,4,Medium
+Web Developer,Responsive Design,4,High
+Web Developer,Web Security,3,Medium
+Web Developer,Testing,3,Medium
+Web Developer,Docker,2,Low
+Web Developer,Linux,2,Low
+Web Developer,UI/UX Basics,3,Medium
+Web Developer,Problem Solving,4,High
+Web Developer,Communication,3,Medium
+Cloud Engineer,Linux,5,High
+Cloud Engineer,Networking,5,High
+Cloud Engineer,AWS,5,High
+Cloud Engineer,Azure,4,Medium
+Cloud Engineer,Google Cloud,3,Low
+Cloud Engineer,Docker,5,High
+Cloud Engineer,Kubernetes,5,High
+Cloud Engineer,Terraform,4,High
+Cloud Engineer,CI/CD,5,High
+Cloud Engineer,Git,4,High
+Cloud Engineer,GitHub,3,Medium
+Cloud Engineer,Python,3,Medium
+Cloud Engineer,Bash,4,High
+Cloud Engineer,Security,4,High
+Cloud Engineer,Monitoring,4,Medium
+Cloud Engineer,DevOps,5,High
+Cloud Engineer,Infrastructure as Code,4,High
+Cloud Engineer,SQL,2,Low
+Cloud Engineer,System Design,4,High
+Cloud Engineer,Problem Solving,4,High
+Cybersecurity Analyst,Networking,5,High
+Cybersecurity Analyst,Linux,5,High
+Cybersecurity Analyst,Python,4,High
+Cybersecurity Analyst,Cybersecurity,5,High
+Cybersecurity Analyst,Cryptography,4,High
+Cybersecurity Analyst,Ethical Hacking,4,High
+Cybersecurity Analyst,SIEM,4,High
+Cybersecurity Analyst,Incident Response,5,High
+Cybersecurity Analyst,Vulnerability Assessment,5,High
+Cybersecurity Analyst,Firewalls,4,Medium
+Cybersecurity Analyst,Web Security,4,High
+Cybersecurity Analyst,OWASP,4,High
+Cybersecurity Analyst,SQL,3,Medium
+Cybersecurity Analyst,Git,3,Low
+Cybersecurity Analyst,Cloud Security,4,High
+Cybersecurity Analyst,Digital Forensics,3,Medium
+Cybersecurity Analyst,Risk Assessment,4,Medium
+Cybersecurity Analyst,Security Monitoring,4,High
+Cybersecurity Analyst,Communication,3,Medium
+Cybersecurity Analyst,Problem Solving,5,High
